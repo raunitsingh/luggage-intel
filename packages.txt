@@ -1,0 +1,5 @@
+# System-level packages installed via apt on Streamlit Cloud (Ubuntu).
+# Required because some Python packages need underlying C libraries.
+
+# libgomp is needed by scikit-learn for OpenMP parallel processing
+libgomp1

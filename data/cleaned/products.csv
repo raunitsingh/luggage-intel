@@ -1,0 +1,73 @@
+product_id,brand,title,category,size_inches,price,list_price,discount_pct,rating,review_count,segment,url
+SAF-B71D73B3,Safari,"Safari Cabin (20"") Hard Trolley Bag - Black","Cabin (20"")",20,7080.0,8200.0,13.7,4.1,497,mid-range,https://www.amazon.in/dp/BE903F0E07
+SAF-A2DB65C0,Safari,"Safari Medium (24"") Hard Trolley Bag - Navy","Medium (24"")",24,7330.0,10390.0,29.5,4.4,164,mid-range,https://www.amazon.in/dp/B268D242E5
+SAF-AAEC1A53,Safari,"Safari Large (28"") Hard Trolley Bag - Navy","Large (28"")",28,5630.0,6520.0,13.7,4.2,133,mid-range,https://www.amazon.in/dp/BE2AC118BC
+SAF-02CB0806,Safari,Safari Trolley Set Hard Trolley Bag - Grey,Trolley Set,N/A,4130.0,5550.0,25.6,4.6,399,mid-range,https://www.amazon.in/dp/B64E6AE1AF
+SAF-EB667C55,Safari,"Safari Cabin (20"") Hard Trolley Bag - Blue","Cabin (20"")",20,4280.0,5680.0,24.6,4.1,532,mid-range,https://www.amazon.in/dp/B37AD74465
+SAF-3E52DCEC,Safari,"Safari Medium (24"") Hard Trolley Bag - Blue","Medium (24"")",24,7480.0,9370.0,20.2,4.1,199,mid-range,https://www.amazon.in/dp/B2F5BA8D53
+SAF-EEE484EA,Safari,"Safari Large (28"") Hard Trolley Bag - Red","Large (28"")",28,9210.0,11520.0,20.1,4.3,553,mid-range,https://www.amazon.in/dp/BDA3286970
+SAF-ED4E79C2,Safari,Safari Trolley Set Hard Trolley Bag - Grey,Trolley Set,N/A,6840.0,9520.0,28.2,4.2,493,mid-range,https://www.amazon.in/dp/B46A444594
+SAF-5B3A6BB7,Safari,"Safari Cabin (20"") Hard Trolley Bag - Navy","Cabin (20"")",20,6390.0,9210.0,30.6,3.7,544,mid-range,https://www.amazon.in/dp/BD73A4D31C
+SAF-4EECC27A,Safari,"Safari Medium (24"") Hard Trolley Bag - Black","Medium (24"")",24,8730.0,10990.0,20.6,4.5,218,mid-range,https://www.amazon.in/dp/B2630DD0C7
+SAF-ED02867C,Safari,"Safari Large (28"") Hard Trolley Bag - Black","Large (28"")",28,3110.0,3790.0,17.9,4.1,239,mid-range,https://www.amazon.in/dp/B7A5A48B9F
+SAF-B7FCD291,Safari,Safari Trolley Set Hard Trolley Bag - Red,Trolley Set,N/A,5350.0,6880.0,22.2,4.3,547,mid-range,https://www.amazon.in/dp/B791A30958
+SKY-349A19CC,Skybags,"Skybags Cabin (20"") Hard Trolley Bag - Red","Cabin (20"")",20,2450.0,2980.0,17.8,4.4,725,budget,https://www.amazon.in/dp/BCD301005A
+SKY-F949380D,Skybags,"Skybags Medium (24"") Hard Trolley Bag - Blue","Medium (24"")",24,3260.0,5070.0,35.7,4.4,349,budget,https://www.amazon.in/dp/B45DB04994
+SKY-3AC7D8B1,Skybags,"Skybags Large (28"") Hard Trolley Bag - Navy","Large (28"")",28,4010.0,5780.0,30.6,3.6,730,budget,https://www.amazon.in/dp/B9F754F177
+SKY-A4120A82,Skybags,Skybags Backpack Hard Trolley Bag - Navy,Backpack,N/A,4890.0,6150.0,20.5,5.0,443,budget,https://www.amazon.in/dp/B0646C49DE
+SKY-2B787A38,Skybags,"Skybags Cabin (20"") Hard Trolley Bag - Blue","Cabin (20"")",20,5650.0,8040.0,29.7,4.3,405,budget,https://www.amazon.in/dp/B65888A0F2
+SKY-A47690C7,Skybags,"Skybags Medium (24"") Hard Trolley Bag - Grey","Medium (24"")",24,5490.0,7340.0,25.2,4.1,883,budget,https://www.amazon.in/dp/B63B91AC06
+SKY-9381F04E,Skybags,"Skybags Large (28"") Hard Trolley Bag - Navy","Large (28"")",28,5070.0,8080.0,37.3,3.5,792,budget,https://www.amazon.in/dp/BEC32C5644
+SKY-68F212CF,Skybags,Skybags Backpack Hard Trolley Bag - Red,Backpack,N/A,6330.0,9160.0,30.9,3.6,628,budget,https://www.amazon.in/dp/BD9257CF75
+SKY-8814A926,Skybags,"Skybags Cabin (20"") Hard Trolley Bag - Black","Cabin (20"")",20,2560.0,3540.0,27.7,3.9,424,budget,https://www.amazon.in/dp/B8FB2309E6
+SKY-0589AAA3,Skybags,"Skybags Medium (24"") Hard Trolley Bag - Navy","Medium (24"")",24,4800.0,7090.0,32.3,3.8,677,budget,https://www.amazon.in/dp/BA121CF127
+SKY-DE4D59EB,Skybags,"Skybags Large (28"") Hard Trolley Bag - Blue","Large (28"")",28,2800.0,3900.0,28.2,4.0,584,budget,https://www.amazon.in/dp/B041649CA8
+SKY-2207A817,Skybags,Skybags Backpack Hard Trolley Bag - Red,Backpack,N/A,3680.0,5630.0,34.6,3.0,206,budget,https://www.amazon.in/dp/B9D4909BB1
+AME-DCBC3472,American Tourister,"American Tourister Cabin (20"") Hard Trolley Bag - Blue","Cabin (20"")",20,7190.0,7990.0,10.0,4.6,502,premium,https://www.amazon.in/dp/BE8A8A8973
+AME-6B7550C9,American Tourister,"American Tourister Medium (24"") Hard Trolley Bag - Blue","Medium (24"")",24,7890.0,8800.0,10.3,4.9,760,premium,https://www.amazon.in/dp/B150919644
+AME-4DE6B2D1,American Tourister,"American Tourister Large (28"") Hard Trolley Bag - Red","Large (28"")",28,11610.0,12860.0,9.7,4.2,675,premium,https://www.amazon.in/dp/B878011F6E
+AME-01CA51D7,American Tourister,American Tourister Trolley Set Hard Trolley Bag - Black,Trolley Set,N/A,14100.0,17030.0,17.2,3.7,1004,premium,https://www.amazon.in/dp/BCEDE2ADD5
+AME-97458BC3,American Tourister,American Tourister Spinner Hard Trolley Bag - Navy,Spinner,N/A,14090.0,16060.0,12.3,4.1,335,premium,https://www.amazon.in/dp/B4544F285E
+AME-959C5CBC,American Tourister,"American Tourister Cabin (20"") Hard Trolley Bag - Black","Cabin (20"")",20,6510.0,8530.0,23.7,4.4,730,premium,https://www.amazon.in/dp/B5FF397266
+AME-E5598CE8,American Tourister,"American Tourister Medium (24"") Hard Trolley Bag - Blue","Medium (24"")",24,5480.0,6240.0,12.2,4.6,745,premium,https://www.amazon.in/dp/B5A6BEAE64
+AME-653A57FA,American Tourister,"American Tourister Large (28"") Hard Trolley Bag - Navy","Large (28"")",28,12550.0,14330.0,12.4,4.5,1030,premium,https://www.amazon.in/dp/BA8C4A1394
+AME-FD69536C,American Tourister,American Tourister Trolley Set Hard Trolley Bag - Navy,Trolley Set,N/A,12710.0,16790.0,24.3,3.6,905,premium,https://www.amazon.in/dp/B14F104104
+AME-BCA1CFED,American Tourister,American Tourister Spinner Hard Trolley Bag - Navy,Spinner,N/A,15820.0,20910.0,24.3,4.2,461,premium,https://www.amazon.in/dp/B0D53B3FBD
+AME-14649FB0,American Tourister,"American Tourister Cabin (20"") Hard Trolley Bag - Grey","Cabin (20"")",20,10630.0,13200.0,19.5,4.7,925,premium,https://www.amazon.in/dp/B29BA1AEEE
+AME-40CBBB82,American Tourister,"American Tourister Medium (24"") Hard Trolley Bag - Black","Medium (24"")",24,7710.0,8980.0,14.1,4.2,519,premium,https://www.amazon.in/dp/BD76D947E4
+VIP-F6F3ACEE,VIP,"VIP Cabin (20"") Hard Trolley Bag - Black","Cabin (20"")",20,6060.0,8560.0,29.2,3.5,490,mid-range,https://www.amazon.in/dp/BFF19F4D62
+VIP-462ADCCC,VIP,"VIP Medium (24"") Hard Trolley Bag - Grey","Medium (24"")",24,5310.0,6850.0,22.5,3.3,113,mid-range,https://www.amazon.in/dp/B07D3A7301
+VIP-E818C2B6,VIP,"VIP Large (28"") Hard Trolley Bag - Black","Large (28"")",28,2540.0,3480.0,27.0,3.8,405,mid-range,https://www.amazon.in/dp/B2067339D0
+VIP-3DEBE4D7,VIP,VIP Soft Trolley Hard Trolley Bag - Blue,Soft Trolley,N/A,7300.0,9230.0,20.9,3.1,400,mid-range,https://www.amazon.in/dp/BC7BA789AB
+VIP-BC8F2E6D,VIP,"VIP Cabin (20"") Hard Trolley Bag - Navy","Cabin (20"")",20,3710.0,5500.0,32.5,3.8,383,mid-range,https://www.amazon.in/dp/B9F8A35813
+VIP-65EA4525,VIP,"VIP Medium (24"") Hard Trolley Bag - Navy","Medium (24"")",24,7410.0,9760.0,24.1,3.9,461,mid-range,https://www.amazon.in/dp/B7E44E29A3
+VIP-A006A90F,VIP,"VIP Large (28"") Hard Trolley Bag - Black","Large (28"")",28,6150.0,9250.0,33.5,3.7,332,mid-range,https://www.amazon.in/dp/B5556D1B42
+VIP-6BEA894C,VIP,VIP Soft Trolley Hard Trolley Bag - Grey,Soft Trolley,N/A,3830.0,5150.0,25.6,3.5,315,mid-range,https://www.amazon.in/dp/B7395CF383
+VIP-51AC27BC,VIP,"VIP Cabin (20"") Hard Trolley Bag - Blue","Cabin (20"")",20,4300.0,6030.0,28.7,3.5,473,mid-range,https://www.amazon.in/dp/B6B8485500
+VIP-AFE8C449,VIP,"VIP Medium (24"") Hard Trolley Bag - Grey","Medium (24"")",24,7980.0,10430.0,23.5,4.3,281,mid-range,https://www.amazon.in/dp/BE0E4881CA
+VIP-E4A8737F,VIP,"VIP Large (28"") Hard Trolley Bag - Blue","Large (28"")",28,2570.0,3590.0,28.4,4.0,187,mid-range,https://www.amazon.in/dp/BE65DE94E0
+VIP-3EAD0038,VIP,VIP Soft Trolley Hard Trolley Bag - Black,Soft Trolley,N/A,3050.0,4110.0,25.8,4.2,423,mid-range,https://www.amazon.in/dp/B0748E233D
+ARI-9AF60425,Aristocrat,"Aristocrat Cabin (20"") Hard Trolley Bag - Navy","Cabin (20"")",20,3810.0,6200.0,38.5,3.4,338,budget,https://www.amazon.in/dp/B88153438D
+ARI-71A21193,Aristocrat,"Aristocrat Medium (24"") Hard Trolley Bag - Navy","Medium (24"")",24,4490.0,7300.0,38.5,4.2,90,budget,https://www.amazon.in/dp/B6DAAD3B45
+ARI-0401E2A5,Aristocrat,"Aristocrat Large (28"") Hard Trolley Bag - Red","Large (28"")",28,3520.0,5470.0,35.6,3.2,104,budget,https://www.amazon.in/dp/B693322960
+ARI-3FD955F0,Aristocrat,Aristocrat Duffle Bag Hard Trolley Bag - Black,Duffle Bag,N/A,2390.0,3440.0,30.5,3.5,125,budget,https://www.amazon.in/dp/B0BBAD72AB
+ARI-240C4A2C,Aristocrat,"Aristocrat Cabin (20"") Hard Trolley Bag - Black","Cabin (20"")",20,1670.0,2200.0,24.1,3.8,345,budget,https://www.amazon.in/dp/BFD8F26D86
+ARI-52788068,Aristocrat,"Aristocrat Medium (24"") Hard Trolley Bag - Navy","Medium (24"")",24,2540.0,3580.0,29.1,4.3,132,budget,https://www.amazon.in/dp/BB87572354
+ARI-1F794450,Aristocrat,"Aristocrat Large (28"") Hard Trolley Bag - Navy","Large (28"")",28,3740.0,5240.0,28.6,3.7,101,budget,https://www.amazon.in/dp/B1164839DB
+ARI-CBE0556B,Aristocrat,Aristocrat Duffle Bag Hard Trolley Bag - Black,Duffle Bag,N/A,3510.0,5530.0,36.5,2.7,335,budget,https://www.amazon.in/dp/B525D64B4D
+ARI-73D944E7,Aristocrat,"Aristocrat Cabin (20"") Hard Trolley Bag - Navy","Cabin (20"")",20,2050.0,3320.0,38.3,3.3,297,budget,https://www.amazon.in/dp/B45B59C02F
+ARI-45DC962E,Aristocrat,"Aristocrat Medium (24"") Hard Trolley Bag - Black","Medium (24"")",24,2270.0,3210.0,29.3,3.6,260,budget,https://www.amazon.in/dp/BDE5024445
+ARI-D56E98F2,Aristocrat,"Aristocrat Large (28"") Hard Trolley Bag - Navy","Large (28"")",28,3910.0,5100.0,23.3,3.2,250,budget,https://www.amazon.in/dp/BF4F0361B0
+ARI-96F3DC52,Aristocrat,Aristocrat Duffle Bag Hard Trolley Bag - Red,Duffle Bag,N/A,1310.0,2140.0,38.8,2.7,313,budget,https://www.amazon.in/dp/B2359FC00D
+NAS-24CF11B2,Nasher Miles,"Nasher Miles Cabin (20"") Hard Trolley Bag - Grey","Cabin (20"")",20,4010.0,5380.0,25.5,4.3,525,mid-range,https://www.amazon.in/dp/B15AB7BC3A
+NAS-B23B03CA,Nasher Miles,"Nasher Miles Medium (24"") Hard Trolley Bag - Black","Medium (24"")",24,9790.0,11480.0,14.7,4.1,441,mid-range,https://www.amazon.in/dp/B52FE23BC2
+NAS-BD0A060F,Nasher Miles,"Nasher Miles Large (28"") Hard Trolley Bag - Red","Large (28"")",28,7990.0,10070.0,20.7,4.1,192,mid-range,https://www.amazon.in/dp/B2C514C12D
+NAS-35FBBE5A,Nasher Miles,Nasher Miles Spinner Set Hard Trolley Bag - Blue,Spinner Set,N/A,5480.0,6710.0,18.3,4.1,291,mid-range,https://www.amazon.in/dp/B098EF5F10
+NAS-7E58BBA3,Nasher Miles,"Nasher Miles Cabin (20"") Hard Trolley Bag - Grey","Cabin (20"")",20,7460.0,8620.0,13.5,4.5,188,mid-range,https://www.amazon.in/dp/BFD59CF575
+NAS-520ACBA4,Nasher Miles,"Nasher Miles Medium (24"") Hard Trolley Bag - Red","Medium (24"")",24,5310.0,7150.0,25.7,3.8,397,mid-range,https://www.amazon.in/dp/B5EB95E60A
+NAS-1AD369A8,Nasher Miles,"Nasher Miles Large (28"") Hard Trolley Bag - Black","Large (28"")",28,6170.0,7630.0,19.1,3.9,668,mid-range,https://www.amazon.in/dp/B5BF3B06E7
+NAS-79B50B74,Nasher Miles,Nasher Miles Spinner Set Hard Trolley Bag - Blue,Spinner Set,N/A,9460.0,11410.0,17.1,3.4,553,mid-range,https://www.amazon.in/dp/B45EFDA4ED
+NAS-09E9F588,Nasher Miles,"Nasher Miles Cabin (20"") Hard Trolley Bag - Red","Cabin (20"")",20,7020.0,8780.0,20.0,3.4,461,mid-range,https://www.amazon.in/dp/B88BD2510E
+NAS-36B82035,Nasher Miles,"Nasher Miles Medium (24"") Hard Trolley Bag - Grey","Medium (24"")",24,5410.0,6910.0,21.7,4.3,249,mid-range,https://www.amazon.in/dp/B8170138B3
+NAS-A9953FDD,Nasher Miles,"Nasher Miles Large (28"") Hard Trolley Bag - Blue","Large (28"")",28,3460.0,4610.0,24.9,4.2,453,mid-range,https://www.amazon.in/dp/BB565FB1ED
+NAS-82E22450,Nasher Miles,Nasher Miles Spinner Set Hard Trolley Bag - Grey,Spinner Set,N/A,4970.0,6520.0,23.8,4.3,566,mid-range,https://www.amazon.in/dp/BBE423BA66

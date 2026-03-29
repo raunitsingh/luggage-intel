@@ -1,0 +1,123 @@
+
+<svg width="820" height="480" viewBox="0 0 820 480" xmlns="http://www.w3.org/2000/svg"
+     font-family="Inter, Arial, sans-serif">
+
+  <!-- Background -->
+  <rect width="820" height="480" fill="#f8fafc" rx="12"/>
+
+  <!-- Title -->
+  <text x="410" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">
+    Luggage Intel — Data Pipeline Architecture
+  </text>
+
+  <!-- ── Row 1: Data Sources ── -->
+  <rect x="30" y="70" width="160" height="60" rx="8" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="110" y="97" text-anchor="middle" font-size="13" font-weight="600" fill="#4338ca">Amazon India</text>
+  <text x="110" y="115" text-anchor="middle" font-size="11" fill="#6366f1">Product Listings + Reviews</text>
+
+  <!-- Arrow: Amazon → Scrapers -->
+  <line x1="190" y1="100" x2="240" y2="100" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- ── Row 1: Scrapers ── -->
+  <rect x="240" y="55" width="160" height="40" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="320" y="80" text-anchor="middle" font-size="12" font-weight="600" fill="#92400e">requests + BS4</text>
+
+  <rect x="240" y="105" width="160" height="40" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="320" y="130" text-anchor="middle" font-size="12" font-weight="600" fill="#92400e">Playwright (Chromium)</text>
+
+  <!-- Arrow: Scrapers → Raw Data -->
+  <line x1="400" y1="100" x2="450" y2="100" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- ── Row 1: Raw Data ── -->
+  <rect x="450" y="70" width="140" height="60" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="520" y="97" text-anchor="middle" font-size="12" font-weight="600" fill="#475569">data/raw/</text>
+  <text x="520" y="114" text-anchor="middle" font-size="11" fill="#64748b">products_raw.csv</text>
+  <text x="520" y="127" text-anchor="middle" font-size="11" fill="#64748b">reviews_raw.csv</text>
+
+  <!-- Arrow: Raw → Cleaner -->
+  <line x1="590" y1="100" x2="640" y2="100" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- ── Row 1: Cleaner ── -->
+  <rect x="640" y="70" width="150" height="60" rx="8" fill="#d1fae5" stroke="#10b981" stroke-width="1.5"/>
+  <text x="715" y="97" text-anchor="middle" font-size="12" font-weight="600" fill="#065f46">data_cleaner.py</text>
+  <text x="715" y="114" text-anchor="middle" font-size="11" fill="#047857">Normalize · Dedupe</text>
+  <text x="715" y="127" text-anchor="middle" font-size="11" fill="#047857">Infer Category</text>
+
+  <!-- ── Row 2: Analysis Layer ── -->
+  <!-- Down arrow from cleaner -->
+  <line x1="715" y1="130" x2="715" y2="175" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="715" y1="175" x2="410" y2="175" stroke="#94a3b8" stroke-width="1.5"/>
+  <line x1="410" y1="175" x2="150" y2="175" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="410" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Cleaned CSVs</text>
+
+  <!-- Sentiment -->
+  <rect x="30" y="185" width="200" height="80" rx="8" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="130" y="208" text-anchor="middle" font-size="13" font-weight="700" fill="#5b21b6">sentiment.py</text>
+  <text x="130" y="226" text-anchor="middle" font-size="11" fill="#7c3aed">VADER Compound Score</text>
+  <text x="130" y="242" text-anchor="middle" font-size="11" fill="#7c3aed">Pos / Neu / Neg Labels</text>
+  <text x="130" y="258" text-anchor="middle" font-size="11" fill="#7c3aed">Aspect-Level (7 dims)</text>
+
+  <!-- Themes -->
+  <rect x="250" y="185" width="200" height="80" rx="8" fill="#fce7f3" stroke="#ec4899" stroke-width="1.5"/>
+  <text x="350" y="208" text-anchor="middle" font-size="13" font-weight="700" fill="#9d174d">themes.py</text>
+  <text x="350" y="226" text-anchor="middle" font-size="11" fill="#be185d">Keyword Clustering</text>
+  <text x="350" y="242" text-anchor="middle" font-size="11" fill="#be185d">Top Praise / Complaints</text>
+  <text x="350" y="258" text-anchor="middle" font-size="11" fill="#be185d">Anomaly Detection</text>
+
+  <!-- Insights -->
+  <rect x="470" y="185" width="200" height="80" rx="8" fill="#cffafe" stroke="#06b6d4" stroke-width="1.5"/>
+  <text x="570" y="208" text-anchor="middle" font-size="13" font-weight="700" fill="#164e63">insights.py</text>
+  <text x="570" y="226" text-anchor="middle" font-size="11" fill="#0e7490">Value-for-Money Index</text>
+  <text x="570" y="242" text-anchor="middle" font-size="11" fill="#0e7490">Market Gap Analysis</text>
+  <text x="570" y="258" text-anchor="middle" font-size="11" fill="#0e7490">Trend Detection</text>
+
+  <!-- ── Row 3: Dashboard ── -->
+  <!-- Down arrows from analysis to dashboard -->
+  <line x1="130" y1="265" x2="130" y2="315" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="350" y1="265" x2="350" y2="315" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="570" y1="265" x2="570" y2="315" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Dashboard Box -->
+  <rect x="30" y="315" width="760" height="140" rx="10" fill="#e0e7ff" stroke="#6366f1" stroke-width="2"/>
+  <text x="410" y="342" text-anchor="middle" font-size="14" font-weight="700" fill="#4338ca">
+    Streamlit Dashboard  (dashboard/app.py)
+  </text>
+
+  <!-- 4 Tabs -->
+  <rect x="50" y="355" width="160" height="80" rx="8" fill="white" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="130" y="378" text-anchor="middle" font-size="12" font-weight="600" fill="#4338ca">📊 Overview</text>
+  <text x="130" y="396" text-anchor="middle" font-size="10" fill="#64748b">KPIs · Positioning Map</text>
+  <text x="130" y="412" text-anchor="middle" font-size="10" fill="#64748b">Violin · Scatter</text>
+  <text x="130" y="428" text-anchor="middle" font-size="10" fill="#64748b">Discount Chart</text>
+
+  <rect x="230" y="355" width="160" height="80" rx="8" fill="white" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="310" y="378" text-anchor="middle" font-size="12" font-weight="600" fill="#4338ca">🏷️ Comparison</text>
+  <text x="310" y="396" text-anchor="middle" font-size="10" fill="#64748b">Scorecard · Radar</text>
+  <text x="310" y="412" text-anchor="middle" font-size="10" fill="#64748b">Sentiment Stacked Bar</text>
+  <text x="310" y="428" text-anchor="middle" font-size="10" fill="#64748b">Aspect Heatmap</text>
+
+  <rect x="410" y="355" width="160" height="80" rx="8" fill="white" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="490" y="378" text-anchor="middle" font-size="12" font-weight="600" fill="#4338ca">🔍 Drilldown</text>
+  <text x="490" y="396" text-anchor="middle" font-size="10" fill="#64748b">Product Card · Themes</text>
+  <text x="490" y="412" text-anchor="middle" font-size="10" fill="#64748b">Sentiment Timeline</text>
+  <text x="490" y="428" text-anchor="middle" font-size="10" fill="#64748b">Review Browser</text>
+
+  <rect x="590" y="355" width="170" height="80" rx="8" fill="white" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="675" y="378" text-anchor="middle" font-size="12" font-weight="600" fill="#4338ca">🤖 Agent Insights</text>
+  <text x="675" y="396" text-anchor="middle" font-size="10" fill="#64748b">AI Conclusions</text>
+  <text x="675" y="412" text-anchor="middle" font-size="10" fill="#64748b">Anomalies · Trust</text>
+  <text x="675" y="428" text-anchor="middle" font-size="10" fill="#64748b">Decision Recs</text>
+
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+
+  <!-- Legend -->
+  <text x="30" y="470" font-size="10" fill="#94a3b8">
+    Stack: Python · Streamlit · Plotly · VADER · pandas · BeautifulSoup · Playwright
+  </text>
+</svg>

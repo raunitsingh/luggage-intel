@@ -1,0 +1,61 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ── Environment variables / secrets ──────────────────────────────────────────
+.env
+*.env
+secrets.toml
+
+# ── Streamlit ─────────────────────────────────────────────────────────────────
+# Keep .streamlit/config.toml (has theme settings — safe to commit)
+# But never commit secrets
+.streamlit/secrets.toml
+
+# ── Raw scraped data (can be large, regenerate with generate_data.py) ─────────
+data/raw/
+
+# ── Jupyter / IPython ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# ── IDE / Editor ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Playwright browser binaries (large, installed via `playwright install`) ───
+playwright-browsers/
+
+# ── Zip / archives ────────────────────────────────────────────────────────────
+*.zip
+*.tar.gz
+
+# NOTE: data/cleaned/ IS committed intentionally so reviewers can run the
+# dashboard immediately without running generate_data.py first.
