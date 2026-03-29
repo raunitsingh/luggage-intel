@@ -134,7 +134,7 @@ def render_brand_comparison(products_df, reviews_df, brand_sentiment_df, themes_
 
     # ── Sentiment stacked bar ─────────────────────────────────────────────────
     if brand_sentiment_df is not None and not brand_sentiment_df.empty:
-        st.markdown("#### 😊 Sentiment Distribution by Brand")
+        st.markdown("####  Sentiment Distribution by Brand")
         fig = go.Figure()
         fig.add_bar(x=brand_sentiment_df["brand"], y=brand_sentiment_df["pct_positive"],
                     name="Positive", marker_color="#34d399",
@@ -206,8 +206,12 @@ def render_brand_comparison(products_df, reviews_df, brand_sentiment_df, themes_
             )
             fig.update_layout(**_D, height=300,
                               coloraxis_colorbar=dict(
-                                  title="Score", tickfont=dict(color="#cbd5e1"),
-                                  titlefont=dict(color="#cbd5e1")
-                              ))
+                                  title=dict(
+                                  text="Score",
+                                  font=dict(color="#cbd5e1")
+                                ),
+                                tickfont=dict(color="#cbd5e1")
+                          )
+            )
             fig.update_traces(textfont=dict(color="#e2e8f0"))
             st.plotly_chart(fig, use_container_width=True)
